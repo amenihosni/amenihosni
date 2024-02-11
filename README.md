@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" alt="Passionate IT student" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNzeGVkNWtiaGpkMTkyYjV1cnEzcTY1Mnd2d3F1a255ZXkzN2ZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bvaXqzBaGpbcHqWPys/source.gif" alt="Passionate IT student" width="300" height="300"/>
 </div>
 
 
