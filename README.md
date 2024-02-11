@@ -1,13 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;" />
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Welcome GIF" width="300" height="300"/>
 </div>
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+🌱+A passionate+IT student+from Tunisia+🌱!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=+🌱+A passionate+IT student+from Tunisia+🌱!;" />
 </h2>
+
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqNG9lbzNseG5kdDQwb2xxYng4enA3ZHRvbmcxeWFqYzE4ZTQ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Passionate IT student" width="300" height="300"/>
 </div>
