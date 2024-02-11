@@ -87,10 +87,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" alt="Ameni's GitHub Streak" /></p>
 
-<img src="https://tenor.com/bsyaP.gif" width="200" height="200" alt="snake_eating_graph"><br><br>
+<img src="https://tenor.com/bsyaP.gif" width="200" height="200" alt="snake_before_graph"><br><br>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
 
 <div align="center">
-
-
