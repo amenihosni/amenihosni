@@ -76,17 +76,21 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ![Ameni's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amenihosni&theme=algolia&layout=compact)
+
 [![Ameni's GitHub stats](https://github-readme-stats.vercel.app/api?username=amenihosni&show_icons=true&theme=algolia)](https://github.com/amenihosni)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" alt="Ameni's GitHub Streak" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=FF0000&line=00008B&point=00008B&hide_title=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center" >
+
+<div align="center">
+
 
