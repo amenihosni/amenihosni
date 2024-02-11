@@ -87,7 +87,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" alt="Ameni's GitHub Streak" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=FF0000&line=00008B&point=00008B&hide_title=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
