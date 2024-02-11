@@ -89,9 +89,7 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR3Z2R5bXJsd2NiN28zcGlya29nNG5paDE0dmdvOXBxM2hzN2t0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DN0U3SqKDG2fTFe/giphy.gif" width="200" height="200" alt="snake_eating_graph"><br><br>
 
 <div align="center">
 
