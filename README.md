@@ -87,9 +87,9 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" alt="Ameni's GitHub Streak" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
+<img src="https://tenor.com/fr/view/fm4-radiofm4-snake-schlange-gif-19158537" width="200" height="200" alt="snake_before_graph"><br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR3Z2R5bXJsd2NiN28zcGlya29nNG5paDE0dmdvOXBxM2hzN2t0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DN0U3SqKDG2fTFe/giphy.gif" width="200" height="200" alt="snake_eating_graph"><br><br>
+![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
 
 <div align="center">
 
