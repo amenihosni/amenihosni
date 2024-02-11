@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=+🌱+A+passionate+IT+student+from+Tunisia+🌱!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=🌱passionate+IT+student+from+Tunisia🌱+!;" />
 </h1>
 
 <div align="center">
@@ -97,7 +97,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" alt="Ameni's GitHub Streak" /></p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ1OHg1OHNtZDhxZDAwMTkyMzh2N2hrcWJpMTRyNWg4eXBmenJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2g6bBwsPCBHRWd43cd/source.gif" width="200" height="200" alt="snake_eating_graph"><br><br>
+<img src="https://media.giphy.com/media/USRByQlJEGq2lFfVdM/giphy.gif" width="200" height="200" alt="snake_eating_graph"><br><br>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
 
