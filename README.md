@@ -2,10 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;" />
 </h1>
 
-<h3 align="center">🌱A passionate It student from Tunisia🌱 </h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Welcome GIF" width="300" height="300"/>
+</div>
+
+<h3 align="center">🌱A passionate IT student from Tunisia🌱 </h3>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqNG9lbzNseG5kdDQwb2xxYng4enA3ZHRvbmcxeWFqYzE4ZTQ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Passionate IT student" width="300" height="300"/>
 </div>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amenihosni&label=Profile%20views&color=0e75b6&style=flat" alt="amenihosni" /> </p>
 
@@ -87,7 +92,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" alt="Ameni's GitHub Streak" /></p>
 
-<img src="https://tenor.com/bsyaP.gif" width="200" height="200" alt="snake_before_graph"><br><br>
+<img src="https://media.giphy.com/media/ll0e2RWW9D69jDPhK4/giphy.gif" width="200" height="200" alt="snake_eating_graph"><br><br>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
 
