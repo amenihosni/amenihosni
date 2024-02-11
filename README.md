@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=🌱passionate+IT+student+from+Tunisia🌱+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=🌱+IT+student+from+Tunisia🌱+!;" />
 </h1>
 
 <div align="center">
