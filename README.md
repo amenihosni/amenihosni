@@ -83,6 +83,23 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
     </a>
 </div>
+.animated-graph {
+  width: 100%;
+  overflow: hidden;
+}
+
+.animated-graph img {
+  animation: scrollGraph 60s linear infinite;
+}
+
+@keyframes scrollGraph {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
 
 
 
