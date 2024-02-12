@@ -18,7 +18,7 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amenihosni&label=Profile%20views&color=0e75b6&style=flat" alt="amenihosni" /> </p>
+
 
 
 <h3 align="center">🐍 I’m currently learning **JAVA, Python**🐍</h3>
