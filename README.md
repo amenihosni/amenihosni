@@ -21,8 +21,8 @@
 
 
 
-<h3 align="center">🐍 I’m currently learning **JAVA, Python**🐍</h3>
- # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<h3 align="center">💡Data Science Enthusiast💡</h3>
+ # <b> 📌Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align="center"> 
   <a href="mailto:amenihosni71@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
