@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;" />
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=🌱+Data science+Student+from+Tunisia🌱+!;" />
-</h1>
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" alt="Passionate IT student" width="300" height="300"/>
 </div>
