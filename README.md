@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;" />
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Welcome GIF" width="300" height="300"/>
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=🌱+Data science+Student+from+Tunisia🌱+!;" />
