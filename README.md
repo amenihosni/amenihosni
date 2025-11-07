@@ -1,148 +1,128 @@
 <!-- ========================================= -->
-<!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
+<!-- ✨ GITHUB PROFILE README — GALAXY EDITION ✨ -->
 <!-- ========================================= -->
 
-<!-- 🌠 Galactic Header -->
-<p align="center">
-  <img src="https://i.imgur.com/zYjH0bA.gif" width="100%" alt="Galaxy stars background" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ameni Hosni — Galaxy Profile</title>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00E7FF&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;+Welcome+to+my+Cosmic+GitHub!+🚀" />
-</h1>
+<style>
+/* ===== GLOBAL ===== */
+body {
+  margin: 0;
+  height: 100vh;
+  overflow-x: hidden;
+  font-family: 'Segoe UI', sans-serif;
+  color: #ffffff;
+  background: radial-gradient(circle at 20% 20%, #0b001a, #000010);
+}
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif"
-       alt="Animated developer" width="280" style="border-radius: 50%; box-shadow: 0 0 20px #00E7FF;">
-</div>
+/* ===== STARS LAYER ===== */
+.stars, .twinkling, .nebula {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  overflow: hidden;
+}
 
-<h3 align="center">💫 Data Science & AI Enthusiast | Software Engineering Student 💫</h3>
+/* tiny stars created with multiple radial gradients */
+.stars {
+  background: radial-gradient(2px 2px at 20% 30%, #ffffff, transparent),
+              radial-gradient(1px 1px at 80% 60%, #c8f0ff, transparent),
+              radial-gradient(1px 1px at 50% 90%, #aaf, transparent),
+              radial-gradient(1px 1px at 10% 70%, #9cf, transparent),
+              radial-gradient(1px 1px at 90% 20%, #ccf, transparent);
+  background-repeat: repeat;
+  animation: moveStars 200s linear infinite;
+  opacity: 0.4;
+}
 
-<div align="center">
-  <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A23?style=for-the-badge&logo=gmail&logoColor=ff4d4d" /></a>
-  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/"><img src="https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=00E7FF" /></a>
-  <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+/* subtle twinkling animation */
+.twinkling {
+  background: radial-gradient(1px 1px at 10% 10%, rgba(255,255,255,0.8), transparent),
+              radial-gradient(2px 2px at 70% 40%, rgba(255,255,255,0.6), transparent),
+              radial-gradient(1px 1px at 90% 80%, rgba(255,255,255,0.7), transparent),
+              radial-gradient(1px 1px at 30% 60%, rgba(255,255,255,0.8), transparent);
+  background-repeat: repeat;
+  animation: twinkle 4s ease-in-out infinite alternate;
+  opacity: 0.5;
+}
 
----
+/* Nebula / Galaxy glow */
+.nebula {
+  background: radial-gradient(circle at 30% 50%, rgba(147,0,255,0.2), transparent 70%),
+              radial-gradient(circle at 70% 60%, rgba(0,217,255,0.2), transparent 70%),
+              radial-gradient(circle at 50% 80%, rgba(255,0,136,0.2), transparent 80%);
+  animation: floatNebula 50s ease-in-out infinite alternate;
+}
 
-## 🦋 About Me  
-🎓 I’m **Ameni Hosni**, a passionate final-year **Data Science & AI Engineering student** at *ESPRIT School of Engineering, Tunisia*.  
-💻 I love **turning data into insights**, building smart interfaces, and exploring the intersection of **AI × Software Development**.  
-🚀 My journey blends creativity, problem-solving, and continuous learning in **Machine Learning**, **Computer Vision**, and **Embedded Systems**.  
+/* ===== TEXT AREA ===== */
+.container {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  top: 35%;
+  transform: translateY(-50%);
+  padding: 0 20px;
+}
 
-✨ *“Code is my art, data is my canvas.”* ✨  
+h1 {
+  font-size: 3em;
+  color: #00e7ff;
+  text-shadow: 0 0 10px #00e7ff, 0 0 30px #005577;
+  animation: glow 3s ease-in-out infinite alternate;
+}
 
-<p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="400" alt="Galaxy divider" />
-</p>
+p {
+  font-size: 1.3em;
+  opacity: 0.9;
+}
 
----
+.section-divider {
+  border: 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #00E7FF, transparent);
+  margin: 40px 0;
+}
 
-## 💼 Experience Highlights  
+/* ===== KEYFRAMES ===== */
+@keyframes moveStars {
+  from { background-position: 0 0; }
+  to { background-position: 10000px 5000px; }
+}
 
-🧠 **Intern** — *Actia Development* (Jul 2024 → Sep 2024)  
-> Developed a **Qt Dashboard Interface** for vehicle control units (VCU pickup), integrating temperature, speed, and weather APIs.  
+@keyframes twinkle {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.8; }
+}
 
-🍽️ **Restaurant Ratings Dashboard Project**  
-> Built a **Business Intelligence Dashboard** with predictive analytics (KNN model) to visualize restaurant performance.  
+@keyframes glow {
+  from { text-shadow: 0 0 5px #00E7FF, 0 0 20px #00E7FF; }
+  to { text-shadow: 0 0 20px #00E7FF, 0 0 40px #00E7FF; }
+}
 
-⚽ **Tactic Sense Project**  
-> Designed a **YOLOv8 + Deep SORT** tracking pipeline for player & ball detection, applying B-splines for motion interpolation.  
+@keyframes floatNebula {
+  from { transform: scale(1) translateY(0px); }
+  to { transform: scale(1.2) translateY(-30px); }
+}
+</style>
+</head>
 
-🎙️ **Speech Emotion Recognition**  
-> Implemented a **ResNet-50**-based emotion classification pipeline using mel spectrograms (EmoDB + RAVDESS).  
+<body>
+  <div class="stars"></div>
+  <div class="twinkling"></div>
+  <div class="nebula"></div>
 
-<p align="center">
-  <img src="https://i.imgur.com/AZ4HZGx.gif" width="100%" alt="blue galaxy line" />
-</p>
-
----
-
-## 🎓 Education  
-
-🎓 **ESPRIT School of Engineering** — *Bachelor in Data Science & Software Engineering*  
-📍 Ariana, Tunisia  |  *Expected Graduation: 2025*  
-
-📘 *Key Courses:* Machine Learning, Big Data, Computer Vision, Python Programming, Deep Learning, Data Visualization.  
-
----
-
-## 🧩 What I’m Currently Working On  
-
-- 🎯 Improving my **YOLO tracking pipeline** with better player classification & real-time rendering.  
-- 🧠 Expanding my **Speech Emotion Recognition** system with data augmentation & transfer learning.  
-- ☁️ Learning **Docker**, **CI/CD**, and **cloud deployment** for AI applications.  
-- 🪄 Building creative, animated dashboards using **Python + Qt**.  
-
-<p align="center">
-  <img src="https://i.imgur.com/3T9HhDa.gif" width="100%" alt="space bar divider" />
-</p>
-
----
-
-## ⚒️ Languages · Frameworks · Tools  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,qt,php,git,linux,opencv,mysql,vscode,docker,figma" />
-</div>
-
----
-
-## 🌠 Featured Projects  
-
-| 🧠 Project | 🌌 Description | 🛠️ Technologies |
-|-------------|----------------|-----------------|
-| **Tactic Sense** | Football player & ball tracking using YOLOv8 + Deep SORT | Python, OpenCV, YOLO, B-Splines |
-| **Restaurant BI Dashboard** | Data analytics dashboard for restaurant ratings & predictions | Power BI, KNN, Python |
-| **VCU Dashboard Interface** | Qt-based vehicle UI for real-time data visualization | C++, Qt 6, OpenWeather API |
-| **Speech Emotion Recognition** | Emotion classification via ResNet-50 on mel-spectrograms | PyTorch, Librosa, Python |
-
----
-
-## ⚡ GitHub Stats  
-
-<div align="center">
-  <img align="right" width="220" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="code animation">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenihosni&theme=tokyonight&layout=compact&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amenihosni&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🪐 Contribution Galaxy  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="snake animation"/>
-</div>
-
----
-
-## 📈 Activity Nebula  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react-dark&hide_border=true&area=true" width="95%">
-</p>
-
----
-
-## 💬 Let’s Connect & Collaborate  
-<div align="center">
-  <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-00E7FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/My%20Projects-0A0A23?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" />
-  <p>✨ “Keep learning, keep coding, and let data inspire your next creation.” ✨</p>
-</div>
-
-<!-- 🌌 Galactic Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/zYjH0bA.gif" width="100%" alt="Galaxy footer" />
-</p>
-
-
-
+  <div class="container">
+    <h1>✨ Ameni Hosni ✨</h1>
+    <hr class="section-divider">
+    <p>🌌 Welcome to my Galaxy — Data Science | AI | ML | Deep Learning 🌌</p>
+  </div>
+</body>
+</html>
