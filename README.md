@@ -2,44 +2,45 @@
 <!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
 <!-- ========================================= -->
 
-<!-- ===== BACKGROUND ANIMATION STYLE ===== -->
+<!-- ===== GALAXY ANIMATION STYLE ===== -->
 <style>
   body {
-    background: radial-gradient(circle at 20% 20%, #0d0d2b, #000010);
+    background: radial-gradient(circle at 20% 20%, #0b001a, #000010);
     color: #ffffff;
     font-family: 'Segoe UI', sans-serif;
   }
 
-  .stars, .twinkling, .clouds {
+  .stars, .twinkling {
     position: fixed;
     width: 100%;
     height: 100%;
     display: block;
-    top: 0; left: 0;
+    top: 0;
+    left: 0;
   }
 
   .stars {
-    background: url('https://raw.githubusercontent.com/amenihosni/amenihosni/main/assets/stars.png') repeat;
+    background: url('https://i.ibb.co/4W29SxB/stars.png') repeat;
     z-index: 0;
     animation: moveStars 200s linear infinite;
     opacity: 0.3;
   }
 
   .twinkling {
-    background: transparent url('https://raw.githubusercontent.com/amenihosni/amenihosni/main/assets/twinkling.png') repeat;
-    animation: moveTwinkling 300s linear infinite;
+    background: url('https://i.ibb.co/KG5jzsv/twinkling.png') repeat;
     z-index: 1;
+    animation: moveTwinkling 300s linear infinite;
     opacity: 0.4;
   }
 
   @keyframes moveStars {
-    from {background-position: 0 0;}
-    to {background-position: 10000px 5000px;}
+    from { background-position: 0 0; }
+    to { background-position: 10000px 5000px; }
   }
 
   @keyframes moveTwinkling {
-    from {background-position: 0 0;}
-    to {background-position: -10000px 5000px;}
+    from { background-position: 0 0; }
+    to { background-position: -10000px 5000px; }
   }
 
   .section-divider {
@@ -48,12 +49,23 @@
     background: linear-gradient(to right, transparent, #00E7FF, transparent);
     margin: 40px 0;
   }
+
+  h2 {
+    color: #00E7FF;
+    text-shadow: 0 0 10px #00E7FF;
+    animation: glow 3s ease-in-out infinite alternate;
+  }
+
+  @keyframes glow {
+    from { text-shadow: 0 0 5px #00E7FF, 0 0 10px #00E7FF; }
+    to { text-shadow: 0 0 20px #00E7FF, 0 0 30px #00E7FF; }
+  }
 </style>
 
 <div class="stars"></div>
 <div class="twinkling"></div>
 
-<!-- HEADER -->
+<!-- ===== HEADER ===== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00E7FF&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;+Welcome+to+my+GitHub+Universe!+🚀" />
 </h1>
@@ -75,12 +87,11 @@
 <hr class="section-divider"/>
 
 ## 🦋 About Me  
-
 🎓 I’m **Ameni Hosni**, a final-year **Data Science & AI Engineering student** at *ESPRIT School of Engineering, Tunisia*.  
 💻 I love **turning data into insights**, building intelligent dashboards, and exploring the harmony between **AI × Software Development**.  
 🚀 My journey combines creativity, logic, and innovation through **Machine Learning**, **Computer Vision**, and **Embedded Systems**.  
 
-> ✨ *“Code is my art, data is my canvas.”*  
+> ✨ *“Code is my art, data is my canvas.”* ✨
 
 <hr class="section-divider"/>
 
