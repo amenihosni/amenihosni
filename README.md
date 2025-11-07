@@ -3,10 +3,7 @@
 <!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
 <!-- =============================================== -->
 
-<!-- COSMIC BACKGROUND -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.2; filter: hue-rotate(250deg);" />
-</div>
+
 
 <!-- STARRY HEADER -->
 <h1 align="center">
@@ -406,11 +403,5 @@
   <img src="https://media.giphy.com/media/3o7aD2s1VqXp7G2S9i/giphy.gif" width="50" />
 </div>
 
-<style>
-  @keyframes cosmic-pulse {
-    0% { box-shadow: 0 0 30px #9370DB, 0 0 60px #4B0082, 0 0 90px #8A2BE2; }
-    50% { box-shadow: 0 0 40px #9370DB, 0 0 80px #4B0082, 0 0 120px #8A2BE2; }
-    100% { box-shadow: 0 0 30px #9370DB, 0 0 60px #4B0082, 0 0 90px #8A2BE2; }
-  }
-</style>
+
 ```
