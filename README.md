@@ -1,28 +1,27 @@
 <!-- ========================================= -->
-<!-- ✨ GITHUB PROFILE README — AMENI HOSNI ✨ -->
+<!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
 <!-- ========================================= -->
 
+<!-- 🌠 Galactic Header -->
 <p align="center">
-  <img src="https://i.imgur.com/f0vTukj.gif" width="100%" alt="Galaxy background" />
+  <img src="https://i.imgur.com/zYjH0bA.gif" width="100%" alt="Galaxy stars background" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00E7FF&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;+Welcome+to+my+GitHub+Universe!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00E7FF&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;+Welcome+to+my+Cosmic+GitHub!+🚀" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" 
-       alt="Animated developer" 
-       width="280" 
-       style="border-radius: 50%; box-shadow: 0 0 20px #00E7FF;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif"
+       alt="Animated developer" width="280" style="border-radius: 50%; box-shadow: 0 0 20px #00E7FF;">
 </div>
 
-<h3 align="center">💡 Data Science & AI Enthusiast | Software Engineering Student 💡</h3>
+<h3 align="center">💫 Data Science & AI Enthusiast | Software Engineering Student 💫</h3>
 
 <div align="center">
   <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A23?style=for-the-badge&logo=gmail&logoColor=ff4d4d" /></a>
-  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=00E7FF" /></a>
-  <a href="https://github.com/amenihosni" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/"><img src="https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=00E7FF" /></a>
+  <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
@@ -33,6 +32,10 @@
 🚀 My journey blends creativity, problem-solving, and continuous learning in **Machine Learning**, **Computer Vision**, and **Embedded Systems**.  
 
 ✨ *“Code is my art, data is my canvas.”* ✨  
+
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="400" alt="Galaxy divider" />
+</p>
 
 ---
 
@@ -49,6 +52,10 @@
 
 🎙️ **Speech Emotion Recognition**  
 > Implemented a **ResNet-50**-based emotion classification pipeline using mel spectrograms (EmoDB + RAVDESS).  
+
+<p align="center">
+  <img src="https://i.imgur.com/AZ4HZGx.gif" width="100%" alt="blue galaxy line" />
+</p>
 
 ---
 
@@ -68,6 +75,10 @@
 - ☁️ Learning **Docker**, **CI/CD**, and **cloud deployment** for AI applications.  
 - 🪄 Building creative, animated dashboards using **Python + Qt**.  
 
+<p align="center">
+  <img src="https://i.imgur.com/3T9HhDa.gif" width="100%" alt="space bar divider" />
+</p>
+
 ---
 
 ## ⚒️ Languages · Frameworks · Tools  
@@ -78,9 +89,9 @@
 
 ---
 
-## 🌌 Featured Projects  
+## 🌠 Featured Projects  
 
-| 🧠 Project | 🌠 Description | 🛠️ Technologies |
+| 🧠 Project | 🌌 Description | 🛠️ Technologies |
 |-------------|----------------|-----------------|
 | **Tactic Sense** | Football player & ball tracking using YOLOv8 + Deep SORT | Python, OpenCV, YOLO, B-Splines |
 | **Restaurant BI Dashboard** | Data analytics dashboard for restaurant ratings & predictions | Power BI, KNN, Python |
@@ -128,6 +139,7 @@
   <p>✨ “Keep learning, keep coding, and let data inspire your next creation.” ✨</p>
 </div>
 
+<!-- 🌌 Galactic Footer -->
 <p align="center">
-  <img src="https://i.imgur.com/f0vTukj.gif" width="100%" alt="Galaxy footer" />
+  <img src="https://i.imgur.com/zYjH0bA.gif" width="100%" alt="Galaxy footer" />
 </p>
