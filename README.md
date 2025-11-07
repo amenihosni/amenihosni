@@ -133,7 +133,4 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
 
 ---
 
-<!-- GALAXY FOOTER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amenihosni/amenihosni/main/images/galaxy-footer.svg" width="100%" alt="galaxy footer" />
-</div>
+
