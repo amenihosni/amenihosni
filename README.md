@@ -1,6 +1,57 @@
 <!-- ========================================= -->
-<!-- ✨ GITHUB PROFILE README — AMENI HOSNI ✨ -->
+<!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
 <!-- ========================================= -->
+
+<!-- ===== BACKGROUND ANIMATION STYLE ===== -->
+<style>
+  body {
+    background: radial-gradient(circle at 20% 20%, #0d0d2b, #000010);
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .stars, .twinkling, .clouds {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: block;
+    top: 0; left: 0;
+  }
+
+  .stars {
+    background: url('https://raw.githubusercontent.com/amenihosni/amenihosni/main/assets/stars.png') repeat;
+    z-index: 0;
+    animation: moveStars 200s linear infinite;
+    opacity: 0.3;
+  }
+
+  .twinkling {
+    background: transparent url('https://raw.githubusercontent.com/amenihosni/amenihosni/main/assets/twinkling.png') repeat;
+    animation: moveTwinkling 300s linear infinite;
+    z-index: 1;
+    opacity: 0.4;
+  }
+
+  @keyframes moveStars {
+    from {background-position: 0 0;}
+    to {background-position: 10000px 5000px;}
+  }
+
+  @keyframes moveTwinkling {
+    from {background-position: 0 0;}
+    to {background-position: -10000px 5000px;}
+  }
+
+  .section-divider {
+    border: 0;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #00E7FF, transparent);
+    margin: 40px 0;
+  }
+</style>
+
+<div class="stars"></div>
+<div class="twinkling"></div>
 
 <!-- HEADER -->
 <h1 align="center">
@@ -21,7 +72,7 @@
   <a href="https://github.com/amenihosni" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
----
+<hr class="section-divider"/>
 
 ## 🦋 About Me  
 
@@ -31,7 +82,7 @@
 
 > ✨ *“Code is my art, data is my canvas.”*  
 
----
+<hr class="section-divider"/>
 
 ## 💼 Experience Highlights  
 
@@ -47,7 +98,7 @@
 🎙️ **Speech Emotion Recognition**  
 > Implemented a **ResNet-50** model to classify emotions using **mel spectrograms** (datasets: EmoDB & RAVDESS).  
 
----
+<hr class="section-divider"/>
 
 ## 🎓 Education  
 
@@ -57,7 +108,7 @@
 📘 **Key Courses:**  
 Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Data Visualization  
 
----
+<hr class="section-divider"/>
 
 ## 🧩 What I’m Currently Working On  
 
@@ -66,7 +117,7 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
 - ☁️ Learning **Docker**, **CI/CD**, and **cloud deployment** for AI apps.  
 - 🪄 Designing **animated dashboards** with Python & Qt.  
 
----
+<hr class="section-divider"/>
 
 ## ⚒️ Languages · Frameworks · Tools  
 
@@ -74,7 +125,7 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,qt,php,git,linux,opencv,mysql,vscode,docker,figma" />
 </div>
 
----
+<hr class="section-divider"/>
 
 ## 🌈 Featured Projects  
 
@@ -85,7 +136,7 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
 | **VCU Dashboard Interface** | Vehicle UI for real-time visualization | C++, Qt6, OpenWeather API |
 | **Speech Emotion Recognition** | Emotion detection using ResNet-50 on spectrograms | PyTorch, Librosa, Python |
 
----
+<hr class="section-divider"/>
 
 ## ⚡ GitHub Stats  
 
@@ -96,7 +147,7 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<hr class="section-divider"/>
 
 ## 🐍 Contribution Snake  
 
@@ -104,7 +155,7 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="snake animation"/>
 </div>
 
----
+<hr class="section-divider"/>
 
 ## 📊 Activity Graph  
 
@@ -112,7 +163,7 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=tokyo-night&hide_border=true&area=true" width="95%">
 </p>
 
----
+<hr class="section-divider"/>
 
 ## 💬 Let’s Connect & Collaborate  
 
@@ -122,11 +173,11 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/My%20Projects-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
----
+<hr class="section-divider"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" />
   <p><b>✨ “Keep learning, keep coding, and let data inspire your next creation.” ✨</b></p>
 </div>
 
----
+<hr class="section-divider"/>
