@@ -3,10 +3,6 @@
 <!-- ✨ GITHUB PROFILE README — AMENI HOSNI ✨ -->
 <!-- ========================================= -->
 
-<!-- ANIMATED BACKGROUND -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 0.3;" />
-</div>
 
 <!-- HEADER -->
 <h1 align="center">
