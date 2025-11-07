@@ -43,7 +43,6 @@
 🎙️ **Speech Emotion Recognition**  
 > Implemented a **ResNet-50**-based emotion classification pipeline using mel spectrograms (EmoDB + RAVDESS).  
 
-🐳 **Docker Certified (KodeKloud)** — Completed the *Docker for Beginners* certification (2024).  
 
 ---
 
