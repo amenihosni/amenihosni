@@ -2,10 +2,6 @@
 <!-- ✨ GITHUB PROFILE README — AMENI HOSNI ✨ -->
 <!-- ========================================= -->
 
-<!-- GALAXY BACKGROUND EFFECT -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amenihosni/amenihosni/main/images/galaxy-bg.svg" width="100%" alt="galaxy background" />
-</div>
 
 <!-- HEADER -->
 <h1 align="center">
