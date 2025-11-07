@@ -31,7 +31,7 @@
 
 ## 💼 Experience Highlights  
 
-🧠 **Data Science Intern** — *Actia Development* (Jul 2024 → Sep 2024)  
+🧠 **  Intern** — *Actia Development* (Jul 2024 → Sep 2024)  
 > Developed a **Qt Dashboard Interface** for vehicle control units (VCU pickup), integrating temperature, speed, and weather APIs.  
 
 🍽️ **Restaurant Ratings Dashboard Project**  
