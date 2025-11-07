@@ -124,10 +124,4 @@
 
 ---
 
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 10px #00CED1; }
-  50% { box-shadow: 0 0 30px #00CED1; }
-  100% { box-shadow: 0 0 10px #00CED1; }
-}
-</style>
+
