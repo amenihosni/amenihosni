@@ -1,134 +1,74 @@
 <!-- ========================================= -->
-<!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
+<!-- ✨ GITHUB PROFILE README — AMENI HOSNI ✨ -->
 <!-- ========================================= -->
 
-<!-- ===== GALAXY ANIMATION STYLE ===== -->
-<style>
-  body {
-    background: radial-gradient(circle at 20% 20%, #0b001a, #000010);
-    color: #ffffff;
-    font-family: 'Segoe UI', sans-serif;
-  }
+<p align="center">
+  <img src="https://i.imgur.com/f0vTukj.gif" width="100%" alt="Galaxy background" />
+</p>
 
-  .stars, .twinkling {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    display: block;
-    top: 0;
-    left: 0;
-  }
-
-  .stars {
-    background: url('https://i.ibb.co/4W29SxB/stars.png') repeat;
-    z-index: 0;
-    animation: moveStars 200s linear infinite;
-    opacity: 0.3;
-  }
-
-  .twinkling {
-    background: url('https://i.ibb.co/KG5jzsv/twinkling.png') repeat;
-    z-index: 1;
-    animation: moveTwinkling 300s linear infinite;
-    opacity: 0.4;
-  }
-
-  @keyframes moveStars {
-    from { background-position: 0 0; }
-    to { background-position: 10000px 5000px; }
-  }
-
-  @keyframes moveTwinkling {
-    from { background-position: 0 0; }
-    to { background-position: -10000px 5000px; }
-  }
-
-  .section-divider {
-    border: 0;
-    height: 2px;
-    background: linear-gradient(to right, transparent, #00E7FF, transparent);
-    margin: 40px 0;
-  }
-
-  h2 {
-    color: #00E7FF;
-    text-shadow: 0 0 10px #00E7FF;
-    animation: glow 3s ease-in-out infinite alternate;
-  }
-
-  @keyframes glow {
-    from { text-shadow: 0 0 5px #00E7FF, 0 0 10px #00E7FF; }
-    to { text-shadow: 0 0 20px #00E7FF, 0 0 30px #00E7FF; }
-  }
-</style>
-
-<div class="stars"></div>
-<div class="twinkling"></div>
-
-<!-- ===== HEADER ===== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00E7FF&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;+Welcome+to+my+GitHub+Universe!+🚀" />
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" 
-       alt="Animated developer" width="270" 
-       style="border-radius: 50%; box-shadow: 0 0 25px #00E7FF; animation: pulse 3s infinite;">
+       alt="Animated developer" 
+       width="280" 
+       style="border-radius: 50%; box-shadow: 0 0 20px #00E7FF;">
 </div>
 
 <h3 align="center">💡 Data Science & AI Enthusiast | Software Engineering Student 💡</h3>
 
 <div align="center">
-  <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/amenihosni" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A23?style=for-the-badge&logo=gmail&logoColor=ff4d4d" /></a>
+  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A23?style=for-the-badge&logo=linkedin&logoColor=00E7FF" /></a>
+  <a href="https://github.com/amenihosni" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<hr class="section-divider"/>
+---
 
 ## 🦋 About Me  
-🎓 I’m **Ameni Hosni**, a final-year **Data Science & AI Engineering student** at *ESPRIT School of Engineering, Tunisia*.  
-💻 I love **turning data into insights**, building intelligent dashboards, and exploring the harmony between **AI × Software Development**.  
-🚀 My journey combines creativity, logic, and innovation through **Machine Learning**, **Computer Vision**, and **Embedded Systems**.  
+🎓 I’m **Ameni Hosni**, a passionate final-year **Data Science & AI Engineering student** at *ESPRIT School of Engineering, Tunisia*.  
+💻 I love **turning data into insights**, building smart interfaces, and exploring the intersection of **AI × Software Development**.  
+🚀 My journey blends creativity, problem-solving, and continuous learning in **Machine Learning**, **Computer Vision**, and **Embedded Systems**.  
 
-> ✨ *“Code is my art, data is my canvas.”* ✨
+✨ *“Code is my art, data is my canvas.”* ✨  
 
-<hr class="section-divider"/>
+---
 
 ## 💼 Experience Highlights  
 
-🧠 **Intern — Actia Development** *(Jul 2024 → Sep 2024)*  
-> Developed a **Qt Dashboard Interface** for vehicle control units (VCU pickup), integrating **speed**, **temperature**, and **weather APIs**.  
+🧠 **Intern** — *Actia Development* (Jul 2024 → Sep 2024)  
+> Developed a **Qt Dashboard Interface** for vehicle control units (VCU pickup), integrating temperature, speed, and weather APIs.  
 
-🍽️ **Restaurant Ratings Dashboard**  
-> Built a **Business Intelligence Dashboard** with **predictive analytics (KNN)** to visualize and analyze restaurant performance.  
+🍽️ **Restaurant Ratings Dashboard Project**  
+> Built a **Business Intelligence Dashboard** with predictive analytics (KNN model) to visualize restaurant performance.  
 
 ⚽ **Tactic Sense Project**  
-> Designed a **YOLOv8 + Deep SORT** tracking pipeline for football player and ball detection, with **B-spline interpolation** for smooth motion.  
+> Designed a **YOLOv8 + Deep SORT** tracking pipeline for player & ball detection, applying B-splines for motion interpolation.  
 
 🎙️ **Speech Emotion Recognition**  
-> Implemented a **ResNet-50** model to classify emotions using **mel spectrograms** (datasets: EmoDB & RAVDESS).  
+> Implemented a **ResNet-50**-based emotion classification pipeline using mel spectrograms (EmoDB + RAVDESS).  
 
-<hr class="section-divider"/>
+---
 
 ## 🎓 Education  
 
 🎓 **ESPRIT School of Engineering** — *Bachelor in Data Science & Software Engineering*  
-📍 Ariana, Tunisia | *Expected Graduation: 2025*  
+📍 Ariana, Tunisia  |  *Expected Graduation: 2025*  
 
-📘 **Key Courses:**  
-Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Data Visualization  
+📘 *Key Courses:* Machine Learning, Big Data, Computer Vision, Python Programming, Deep Learning, Data Visualization.  
 
-<hr class="section-divider"/>
+---
 
 ## 🧩 What I’m Currently Working On  
 
-- 🎯 Optimizing my **YOLO tracking pipeline** for real-time player classification.  
-- 🧠 Expanding **Speech Emotion Recognition** with **transfer learning + augmentation**.  
-- ☁️ Learning **Docker**, **CI/CD**, and **cloud deployment** for AI apps.  
-- 🪄 Designing **animated dashboards** with Python & Qt.  
+- 🎯 Improving my **YOLO tracking pipeline** with better player classification & real-time rendering.  
+- 🧠 Expanding my **Speech Emotion Recognition** system with data augmentation & transfer learning.  
+- ☁️ Learning **Docker**, **CI/CD**, and **cloud deployment** for AI applications.  
+- 🪄 Building creative, animated dashboards using **Python + Qt**.  
 
-<hr class="section-divider"/>
+---
 
 ## ⚒️ Languages · Frameworks · Tools  
 
@@ -136,18 +76,18 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,qt,php,git,linux,opencv,mysql,vscode,docker,figma" />
 </div>
 
-<hr class="section-divider"/>
+---
 
-## 🌈 Featured Projects  
+## 🌌 Featured Projects  
 
-| 🧠 Project | 🔍 Description | 🛠️ Technologies |
+| 🧠 Project | 🌠 Description | 🛠️ Technologies |
 |-------------|----------------|-----------------|
 | **Tactic Sense** | Football player & ball tracking using YOLOv8 + Deep SORT | Python, OpenCV, YOLO, B-Splines |
-| **Restaurant BI Dashboard** | BI dashboard for restaurant analytics & prediction | Power BI, Python, KNN |
-| **VCU Dashboard Interface** | Vehicle UI for real-time visualization | C++, Qt6, OpenWeather API |
-| **Speech Emotion Recognition** | Emotion detection using ResNet-50 on spectrograms | PyTorch, Librosa, Python |
+| **Restaurant BI Dashboard** | Data analytics dashboard for restaurant ratings & predictions | Power BI, KNN, Python |
+| **VCU Dashboard Interface** | Qt-based vehicle UI for real-time data visualization | C++, Qt 6, OpenWeather API |
+| **Speech Emotion Recognition** | Emotion classification via ResNet-50 on mel-spectrograms | PyTorch, Librosa, Python |
 
-<hr class="section-divider"/>
+---
 
 ## ⚡ GitHub Stats  
 
@@ -158,37 +98,36 @@ Machine Learning · Big Data · Deep Learning · Computer Vision · Python · Da
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=tokyonight&hide_border=true" />
 </div>
 
-<hr class="section-divider"/>
+---
 
-## 🐍 Contribution Snake  
-
+## 🪐 Contribution Galaxy  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="snake animation"/>
 </div>
 
-<hr class="section-divider"/>
+---
 
-## 📊 Activity Graph  
-
+## 📈 Activity Nebula  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=tokyo-night&hide_border=true&area=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react-dark&hide_border=true&area=true" width="95%">
 </p>
 
-<hr class="section-divider"/>
+---
 
 ## 💬 Let’s Connect & Collaborate  
-
 <div align="center">
   <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-00E7FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/My%20Projects-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/My%20Projects-0A0A23?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-<hr class="section-divider"/>
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" />
-  <p><b>✨ “Keep learning, keep coding, and let data inspire your next creation.” ✨</b></p>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" />
+  <p>✨ “Keep learning, keep coding, and let data inspire your next creation.” ✨</p>
 </div>
 
-<hr class="section-divider"/>
+<p align="center">
+  <img src="https://i.imgur.com/f0vTukj.gif" width="100%" alt="Galaxy footer" />
+</p>
