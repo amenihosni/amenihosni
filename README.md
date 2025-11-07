@@ -1,130 +1,134 @@
-<!-- 🌸 AMENI HOSNI — GITHUB PROFILE README 🌸 -->
-<!-- ======================================= -->
+<!-- ========================================= -->
+<!-- ✨ GITHUB PROFILE README — AMENI HOSNI ✨ -->
+<!-- ========================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00CED1&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00CED1&lines=Hi+There!+👋;+I'm+Ameni+Hosni!;+Welcome+to+my+GitHub+Universe!+🚀" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" alt="Ameni GIF" width="280" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" alt="Animated developer" width="280" style="border-radius: 50%; box-shadow: 0px 0px 20px #00CED1; animation: pulse 3s infinite;" />
 </div>
 
 <h3 align="center">💡 Data Science & AI Enthusiast | Software Engineering Student 💡</h3>
 
-<div align="center"> 
-  <a href="mailto:amenihosni71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amenihosni" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
+  <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amenihosni" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
 ## 🦋 About Me  
+🎓 I’m **Ameni Hosni**, a passionate final-year **Data Science & AI Engineering student** at *ESPRIT School of Engineering, Tunisia*.  
+💻 I love **turning data into insights**, building smart interfaces, and exploring the intersection of **AI × Software Development**.  
+🚀 My journey blends creativity, problem-solving, and continuous learning in **Machine Learning**, **Computer Vision**, and **Embedded Systems**.  
 
-🎓 I’m **Ameni Hosni**, a final-year **Data Science and Artificial Intelligence Engineering Student** at **ESPRIT School of Engineering, Tunisia**.  
-💻 I enjoy **turning data into insight**, building **AI-driven dashboards**, and exploring **machine learning, computer vision, and embedded systems**.  
-🌍 Passionate about **technology, design, and innovation**, with experience across **AI, data analytics, and software development**.  
-🎯 Always open to collaboration, internships, or research in **AI & Data Science**.  
+✨ *“Code is my art, data is my canvas.”* ✨  
 
 ---
 
-## 💼 Experience  
+## 💼 Experience Highlights  
 
-### 🧠 **Data Science Intern — Actia Development (Jul 2024 → Sep 2024)**  
-- Developed a **Qt dashboard interface** for a **vehicle control unit (VCU Pickup)**.  
-- Integrated **OpenWeatherMap API** for live weather data.  
-- Displayed **real-time speed, temperature, and battery visualization** using QML.  
+🧠 **Data Science Intern** — *Actia Development* (Jul 2024 → Sep 2024)  
+> Developed a **Qt Dashboard Interface** for vehicle control units (VCU pickup), integrating temperature, speed, and weather APIs.  
 
-### 🍽️ **Restaurant Ratings Dashboard (Personal Project)**  
-- Built a **Business Intelligence dashboard** combining **KNN predictive analytics** and **Power BI visualizations**.  
-- Provided **consumer insights and performance KPIs** for restaurant stakeholders.  
+🍽️ **Restaurant Ratings Dashboard Project**  
+> Built a **Business Intelligence Dashboard** with predictive analytics (KNN model) to visualize restaurant performance.  
 
-### ⚽ **Tactic Sense Project**  
-- Implemented **player and ball tracking** in soccer videos using **YOLOv8 + Deep SORT**.  
-- Classified detections by role (Team A, Team B, Goalkeeper, Referee) and interpolated missing trajectories with **B-splines**.  
+⚽ **Tactic Sense Project**  
+> Designed a **YOLOv8 + Deep SORT** tracking pipeline for player & ball detection, applying B-splines for motion interpolation.  
 
-### 🎙️ **Speech Emotion Recognition Project**  
-- Built a **ResNet-50 CNN model** trained on **mel spectrograms** (EmoDB + RAVDESS).  
-- Classified emotions with **high F1 accuracy** using **transfer learning** and **PyTorch**.  
+🎙️ **Speech Emotion Recognition**  
+> Implemented a **ResNet-50**-based emotion classification pipeline using mel spectrograms (EmoDB + RAVDESS).  
+
+🐳 **Docker Certified (KodeKloud)** — Completed the *Docker for Beginners* certification (2024).  
 
 ---
 
 ## 🎓 Education  
 
-**ESPRIT School of Engineering – Tunisia**  
-🎓 *Bachelor’s Degree in Data Science and Software Engineering (Expected 2025)*  
+🎓 **ESPRIT School of Engineering** — *Bachelor in Data Science & Software Engineering*  
+📍 Ariana, Tunisia  |  *Expected Graduation: 2025*  
 
-**Key Modules:**  
-- Machine Learning & Deep Learning  
-- Big Data Processing  
-- Python & C++ Development  
-- Data Visualization & BI (Power BI, Tableau)  
-- Computer Vision (OpenCV, YOLO)  
+📘 *Key Courses:* Machine Learning, Big Data, Computer Vision, Python Programming, Deep Learning, Data Visualization.  
 
 ---
 
-## 🧩 Certifications  
+## 🧩 What I’m Currently Working On  
 
-📜 **Docker for Beginners** – KodeKloud (2024)  
-📜 **Python for Data Science** – Coursera  
-📜 **Data Analysis with Pandas** – Kaggle  
-📜 **AI and Machine Learning Foundations** – IBM Skills Network  
+- 🎯 Improving my **YOLO tracking pipeline** with better player classification & real-time rendering.  
+- 🧠 Expanding my **Speech Emotion Recognition** system with data augmentation & transfer learning.  
+- ☁️ Learning **Docker**, **CI/CD**, and **cloud deployment** for AI applications.  
+- 🪄 Building creative, animated dashboards using **Python + Qt**.  
 
 ---
 
-## ⚒️ Languages, Frameworks & Tools  
+## ⚒️ Languages · Frameworks · Tools  
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,qt,php,git,linux,opencv,mysql,vscode,docker,figma" />
 </div>
+
+---
+
+## 🌈 Featured Projects  
+
+| 🧠 Project | 🔍 Description | 🛠️ Technologies |
+|-------------|----------------|-----------------|
+| **Tactic Sense** | Football player & ball tracking using YOLOv8 + Deep SORT | Python, OpenCV, YOLO, B-Splines |
+| **Restaurant BI Dashboard** | Data analytics dashboard for restaurant ratings & predictions | Power BI, KNN, Python |
+| **VCU Dashboard Interface** | Qt-based vehicle UI for real-time data visualization | C++, Qt 6, OpenWeather API |
+| **Speech Emotion Recognition** | Emotion classification via ResNet-50 on mel-spectrograms | PyTorch, Librosa, Python |
 
 ---
 
 ## ⚡ GitHub Stats  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amenihosni&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia" />
-</p>
+<div align="center">
+  <img align="right" width="220" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="code animation">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenihosni&theme=algolia&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amenihosni&show_icons=true&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amenihosni&theme=algolia&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenihosni&layout=compact&theme=algolia" />
-</p>
+---
 
+## 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="snake animation"/>
+</div>
+
+---
+
+## 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amenihosni&theme=react-dark&hide_border=true&area=true" width="95%">
 </p>
 
 ---
 
-## 🌈 Fun Facts  
-
-💬 I love visualizing data like art and explaining AI in simple words.  
-🎵 Music and creativity fuel my problem-solving mindset.  
-🧠 Currently learning **LLMs and NLP for intelligent assistants**.  
-🌸 Motto: *“Keep learning, keep coding, and let data tell its story.”*  
+## 💬 Let’s Connect & Collaborate  
+<div align="center">
+  <a href="mailto:amenihosni71@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-00CED1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ameni-hosni-7a99971b0/"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amenihosni"><img src="https://img.shields.io/badge/My%20Projects-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/wxnsKAVzQNpqnQP0Sl/giphy.gif" width="350" alt="Snake animation" />
-  <br/>
-  <b>✨ Thanks for visiting my GitHub profile! ✨</b>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" />
+  <p>✨ “Keep learning, keep coding, and let data inspire your next creation.” ✨</p>
 </div>
+
+---
+
+<style>
+@keyframes pulse {
+  0% { box-shadow: 0 0 10px #00CED1; }
+  50% { box-shadow: 0 0 30px #00CED1; }
+  100% { box-shadow: 0 0 10px #00CED1; }
+}
+</style>
