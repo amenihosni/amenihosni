@@ -3,8 +3,6 @@
 <!-- 🌌 GITHUB PROFILE README — AMENI HOSNI 🌌 -->
 <!-- =============================================== -->
 
-
-
 <!-- STARRY HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=38&center=true&vCenter=true&width=700&height=80&duration=4500&color=9370DB&background=00000000&lines=🌠+Hi+There!+👋;🚀+I'm+Ameni+Hosni!;✨+Welcome+to+my+GitHub+Universe!+🌌" />
@@ -12,7 +10,7 @@
 
 <!-- COSMIC PROFILE -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/source.gif" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlMmN6aTM3OHpuNTk5aXZpaGd3cjVjaG1wanpsM2pxemx6bXY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XELzWQC8dkkZ01N7Un/giphy.gif" 
        alt="Cosmic Developer" width="280" 
        style="border-radius: 50%; box-shadow: 0 0 30px #9370DB, 0 0 60px #4B0082, 0 0 90px #8A2BE2; animation: cosmic-pulse 4s infinite; border: 4px solid #9370DB; background: linear-gradient(45deg, #000000, #2D1B69);" />
 </div>
@@ -402,6 +400,4 @@
   <br/>
   <img src="https://media.giphy.com/media/3o7aD2s1VqXp7G2S9i/giphy.gif" width="50" />
 </div>
-
-
 ```
